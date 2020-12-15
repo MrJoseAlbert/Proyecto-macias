@@ -1,0 +1,36 @@
+.body{
+	color: dimgrey;
+}
+.card{
+	border-radius: 4px;
+	background-color: khaki;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+.pc img{
+	width: 250px;
+	height: 220px;
+}
+.btnpc1{
+	background-color:rgb(223, 156, 156);
+	font-size: 20px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-weight: 200;
+}
+.btnpc2{
+	background-color:rgb(223, 156, 156);
+	font-size: 20px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-weight: 200;
+}
+.btnpc3{
+	background-color:rgb(223, 156, 156);
+	font-size: 20px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-weight: 200;
+}
+.btnpc4{
+	background-color:rgb(223, 156, 156);
+	font-size: 20px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-weight: 200;
+}
